@@ -20,6 +20,12 @@ body {
   background-color: #343A40;
 }
 
+pre {
+  background: #343A40;
+  color: pink;
+  padding: 20px;
+}
+
 .card {
   height: 80vh;
 }

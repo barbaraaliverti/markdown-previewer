@@ -1,9 +1,9 @@
 import { React, Component } from 'react';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm'
 
 class Preview extends Component {
   
-
   render () {
     return (
       <div className="col-sm-6">
@@ -13,7 +13,7 @@ class Preview extends Component {
           </div>
           <div className="card-body preview">
             <div id="preview" className="card-text">           
-              <ReactMarkdown children={this.props.input}/>           
+              <ReactMarkdown remarkPlugins={[remarkGfm]} children={this.props.input}/>           
             </div>
           </div>
       </div>
