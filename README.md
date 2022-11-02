@@ -37,7 +37,7 @@ Build a markdown previewer using any mix of HTML, JavaScript, CSS, Bootstrap, SA
 
 ### Screenshot
 
-![image](ttps://user-images.githubusercontent.com/64551613/199610462-287f478b-a17c-4163-85a5-e3fd94facf50.png)
+![image](https://user-images.githubusercontent.com/64551613/199610462-287f478b-a17c-4163-85a5-e3fd94facf50.png)
 ![image](https://user-images.githubusercontent.com/64551613/199610564-3a9bbdc0-3b9d-4755-b53c-40ae88a4248b.png)
 
 
